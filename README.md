@@ -1,5 +1,6 @@
 # TextFileParser
 A text-file parser in c.
+
 This project uses two independant programs that communicate over a thread-safe message queue.
 It analyzes a text-file that contains entries of phone calls and text messages and creates reports for subscribers and operators.
 
