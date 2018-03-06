@@ -1,0 +1,3 @@
+Wed Nov  8 09:44:08 2017
+
+IMSI: 123456789, Outgoing calls within operator (in minutes): 0.000000, Outgoing calls outside operator (in minutes): 0.000000, Incoming calls within operator (in minutes): 4.500000, Incoming calls outside operator (in minutes): 0.000000, Outgoing SMS within operator: 1.000000, Outgoing SMS outside operator: 0.000000, Incoming SMS within operator: 1.000000, Incoming SMS outside operator: 0.000000, MB downloaded: 0.500000, MB uploaded: 0.010000

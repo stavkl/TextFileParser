@@ -1,0 +1,3 @@
+Wed Nov  8 09:44:08 2017
+
+MCC/MNC: 111111111, Brand Name: KakaPhone, Incoming calls duration (in hours): 0.000000,Outgoing calls duration (in hours): 0.075000, Incoming SMS messages: 1.000000,Outgoing SMS messages: 1.000000
